@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Felipe Coelho
 
 <!--
 **fecoelho/fecoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Minishell
 - 🌱 Learning in [42 São Paulo](https://www.42sp.org.br/)
