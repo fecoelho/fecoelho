@@ -2,6 +2,7 @@
 
 <!--
 **fecoelho/fecoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -15,5 +16,3 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=fecoelhot&count_private=true&show_icons=true&theme=dark)](https://github.com/fecoelho/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecoelhot&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/fecoelho/github-readme-stats)
-
--->
