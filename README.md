@@ -11,4 +11,4 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=fecoelho&count_private=true&show_icons=true&theme=dark)](https://github.com/fecoelho/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecoelho&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/fecoelho/github-readme-stats)
+
